@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<about>
+  <name>Hani Safadi</name>
+  <blurb>Associate professor in the Terry College of Business at the University of Georgia. Interested in researching and teaching data analytics, online communities, social media, healthcare information technology, and the application of computational methods in management research.</blurb>
+  <picture>/assets/portrait.jpg</picture>
+  <address>Benson C420, 610 South Lumpkin Street, Athens, GA 30602</address>
+  <email>hanisaf@uga.edu</email>
+  <phone>+1-706-542-3336</phone>
+  <fax>+1-706-542-2784</fax>
+  <websites>
+    <website title="UGA" url="https://www.terry.uga.edu/directory/hani-safadi"/>
+    <website title="Google Scholar" url="https://scholar.google.com/citations?user=OUWTJoMAAAAJ"/>
+    <website title="ORCID" url="https://orcid.org/0000-0003-0609-8005"/>
+    <website title="SSRN" url="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4067702"/>
+    <website title="GitHub" url="https://github.com/hanisaf/"/>
+    <website title="LinkedIn" url="https://www.linkedin.com/in/hanisafadi"/>
+    <website title="X" url="https://x.com/hanisaf"/>
+    <website title="ODIN" url="https://hanisaf.github.io/odin-front/"/>
+  </websites>
+  <education>
+    <entry title="Ph.D. in Information Systems Management" venue="McGill University" startdate="2009" enddate="2015" abstract="GPA 3.92/4.0"/>
+    <entry title="M.Sc. in Computer Science" venue="McGill University" startdate="2006" enddate="2008" abstract="GPA 4.0/4.0"/>
+    <entry title="B.Eng. in Computer Engineering" venue="University of Damascus" startdate="2001" enddate="2006" abstract="2nd student in the cohort"/>
+  </education>
+  <expertise>
+    <entry title="Certified Analytics Professional - Expert level (CAP-X)" venue="INFORMS" startdate="2021" url="https://bcert.me/sjixukecg" abstract=""/>
+    <entry title="Certified Java Professional - Programmer" venue="Oracle" startdate="2006" url="https://education.oracle.com/oracle-certification-path/pFamily_48" abstract=""/>
+  </expertise>
+  <work>
+    <entry title="Associate Professor" venue="University of Georgia, Terry College of Business" startdate="2021" highlight="yes"/>
+    <entry title="Assistant Professor" venue="University of Georgia, Terry College of Business" startdate="2015" enddate="2021" highlight="yes"/>
+    <entry title="Research Collaborator" venue="Mayo Clinic" startdate="2016" enddate="2021" highlight="yes"/>
+    <entry title="Visiting Assistant Professor" venue="Stevens Institute of Technology, School of Business" startdate="2014" enddate="2015" highlight="yes"/>
+    <entry title="Software Developer" venue="Queen Elizabeth Health Complex" startdate="2012" enddate="2013" abstract="Supporting and implementing a multi-clinic Open-Source Electronic Medical System "/>
+    <entry title="Instructor" venue="McGill University, Desautels Faculty of Management" startdate="2012" enddate="2011"/>
+    <entry title="Search Engine Optimization Consultant" venue="McGill University" startdate="2009" enddate="2009" abstract="Improving the visibility of the graduate school new website and optimizing it for search engines "/>
+    <entry title="Research Engineer" venue="Yahoo!" startdate="2007" enddate="2007" abstract="Using statistical machine translation technology to enhance user query experience in Yahoo! Answers "/>
+    <entry title="Software Developer" venue="Arexera Information Technology" startdate="2005" enddate="2005" abstract="Adaptation of Arexera's search engine technologies to Arabic"/>
+    <entry title="Software Tester" venue="TeachArabia" startdate="2004" enddate="2005"/>
+  </work>
+  <interests>
+    <category name="Online collectives">
+      <item>Online communities</item>
+      <item>Open-source software</item>
+      <item>Social media</item>
+    </category>
+    <category name="Health IT">
+      <item>Open-source health IT</item>
+      <item>Online patient communities</item>
+    </category>
+    <category name="Theory development">
+      <item>Mixed methods</item>
+      <item>Computational theory development</item>
+    </category>
+    <category name="Data analytics">
+      <item>Data science</item>
+      <item>Big data analytics</item>
+      <item>Data engineering</item>
+    </category>
+  </interests>
+</about>
